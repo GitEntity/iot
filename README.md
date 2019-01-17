@@ -2,7 +2,7 @@
 
 **View branches for course work**
 
-### IoT Assignment - Reading Bluetooth Sensor Data, Local Database backup, and HTTP Post Requests to Thingsboard IoT Platform
+### IoT Assignment - Reading Bluetooth Sensor Data, Local Database Backup, and HTTP Post Requests to Thingsboard IoT Platform
 
 ###### Course Description
 Students will learn to design and analyze IoT systems
