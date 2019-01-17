@@ -1,2 +1,13 @@
 # iot
-SOFE 4610U: Design and Analysis of IoT Software
+
+**View branches for course work**
+
+###### Course Description
+Students will learn to design and analyze IoT systems
+with an emphasis on software architecture, protocols at
+the sensor, actuation, and service layer, and data storage
+and analysis with the goal of facilitating the deployment
+of IoT services. IoT specific security concerns and
+solutions will be discussed. Experiential learning is
+emphasized through hands-on design and development
+of IoT prototypes.
