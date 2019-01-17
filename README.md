@@ -2,6 +2,8 @@
 
 **View branches for course work**
 
+### Lab 5: Using Docker for Automated System Deployment on the Raspberry Pi
+
 ###### Course Description
 Students will learn to design and analyze IoT systems
 with an emphasis on software architecture, protocols at
