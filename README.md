@@ -2,7 +2,7 @@
 
 **View branches for course work**
 
-### Installing and Using Bluetooth on the Raspberry Pi
+### Lab 3: Installing and Using Bluetooth on the Raspberry Pi
 
 ###### Course Description
 Students will learn to design and analyze IoT systems
